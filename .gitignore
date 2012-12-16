@@ -1,5 +1,0 @@
-lib/startup.bash
-lib/data/
-*bbproject*
-config.json
-.DS_Store
